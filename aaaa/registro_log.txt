@@ -1,0 +1,2 @@
+2024-08-19 00:50:04 - Usuário registrado com sucesso: aaaaa.
+2024-08-19 00:50:22 - Tentativa de registro falhou: usuário ou e-mail já existe para aaaaa.
